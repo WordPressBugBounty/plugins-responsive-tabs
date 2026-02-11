@@ -1,8 +1,8 @@
 === Responsive Tabs ===
 Contributors: spwebguy
-Tags: tab, tabs, accordion, shortcode, content, responsive, responsive tab
+Tags: tab, tabs, accordion, shortcode, responsive tab
 Requires at least: 3.6
-Tested up to: 6.5
+Tested up to: 6.9
 Stable tag: 4.0.11
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl.html
